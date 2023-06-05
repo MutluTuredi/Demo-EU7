@@ -2,3 +2,4 @@ Bu repositorye herhangi bir push yapilirssa Jenkins GitHub-WebHook Job otomatik 
 
 ...
 Commit Change
+localde Calisma yapildi
